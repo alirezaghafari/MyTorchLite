@@ -60,7 +60,7 @@ This module includes the implementation of MSE and CrossEntopy loss functions.
 ## Examples
 
 Error-Epoch Plot for my MLP architecture:
-![mpl_result](mpl_result.png)
+![mlp_result](mlp_result.png)
 
 
 ## Contributing
