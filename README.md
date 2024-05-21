@@ -36,26 +36,20 @@ Additionally, you can explore the simple_neuron.ipynb notebook to learn how to t
 
 ## Components
 
-* Tensor
-
+#### Tensor
 The `Tensor` class is a wrapper around NumPy arrays, providing support for automatic differentiation. It's responsible for applying computational operations and handling gradients within the network.
 
-* Layer
-
+#### Layer
 The `Layer` class represents a neural network layer with weights and biases.
 
-* Optimizer
-
+#### Optimizer
 The `Optimizer` class is an abstract class for different optimization algorithms. The `SGD` class is already implemented. You can implement your desired algorithm.
 
-
-* Activation
+#### Activation
 This module includes various activation components for implementing activation functions, covering all the well-known activation functions such as ReLU, Sigmoid, Tanh, etc.
 
-* Loss
-This module includes the implementation of MSE and CrossEntopy loss functions.
-
-
+#### Loss
+This module includes the implementation of MSE and CrossEntropy loss functions.
 
 ## Examples
 
